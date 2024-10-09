@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w8aXdk+8/FOTm/+Qn1t94U5w382LLge+5JDtcuCJjvInFP6V0ckACdpNNTYFrT1tOve2rG6mv2S2BVZxejjw6w==",
+  "dgSpecHash": "6xNZIvnFFOo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Skrivebord\\sportStore\\SportsSln\\SportsStore\\SportsStore.csproj",
+  "projectFilePath": "C:\\Users\\victo\\Desktop\\ASPNETCORE\\SportStore\\SportsSln\\SportsStore\\SportsStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
@@ -45,11 +45,7 @@
     "C:\\Users\\victo\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512"
+    "C:\\Users\\victo\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
